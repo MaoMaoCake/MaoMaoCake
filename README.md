@@ -1,6 +1,7 @@
-### Hi there 👋4
-## How Are You
-# ✨🎉🎉Python is getting switch cases 🎉🎉✨
+### Hi there 👋
+## Check Out My [🖥Website](https://jirapongpansak.com)
+## ✨🎉🎉Python 3.10 is getting switch cases 🎉🎉✨
+## Check out [Telescope 🔭](https://github.com/beanfacts/telescope)
 
 <!--
 **MaoMaoCake/MaoMaoCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

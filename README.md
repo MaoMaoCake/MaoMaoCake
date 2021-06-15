@@ -1,5 +1,4 @@
 ### Hi there 👋
-## ✨🎉🎉Python 3.10 is getting switch cases 🎉🎉✨
 ## Check Out My [🖥Website](https://jirapongpansak.com)!
 ## Check out [Telescope 🔭](https://github.com/beanfacts/telescope)
 - 🔭 I’m currently working on [Telescope 🔭](https://github.com/beanfacts/telescope) a RDMA based Streaming app

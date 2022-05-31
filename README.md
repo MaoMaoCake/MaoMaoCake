@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ## Check Out My [🖥Website](https://jirapongpansak.com)! -->
-## Check out [Telescope 🔭](https://github.com/beanfacts/telescope)
-- 🔭 I’m currently working on [Telescope 🔭](https://github.com/beanfacts/telescope) a RDMA based Streaming app
+<!-- ## Check out [Telescope 🔭](https://github.com/beanfacts/telescope) -->
+<!-- - 🔭 I’m currently working on [Telescope 🔭](https://github.com/beanfacts/telescope) a RDMA based Streaming app -->
 <!--
 **MaoMaoCake/MaoMaoCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

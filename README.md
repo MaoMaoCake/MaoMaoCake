@@ -1,5 +1,5 @@
-# 💫 About Me:
- Check Out My [🖥Website](https://jirapongpansak.com)!  <br>⚡Fun Fact: The fastest way to write a loop in python is to write it in C
+<!-- # 💫 About Me:
+Check Out My [🖥Website](https://jirapongpansak.com)!  <br>-->⚡Fun Fact: The fastest way to write a loop in python is to write it in C
 
 
 ## 🌐 Socials:

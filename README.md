@@ -1,6 +1,6 @@
 # 💫 About Me:
 <!-- Check Out My [🖥Website](https://jirapongpansak.com)!  <br>-->
-Check Out [Proxima](https://gitlab.com/proximalink/proxima) a VDI system for proxmox
+Check Out [Proxima](https://gitlab.com/proximalink/proxima) a VDI system for proxmox  
 ⚡Fun Fact: The fastest way to write a loop in python is to write it in C
 
 
